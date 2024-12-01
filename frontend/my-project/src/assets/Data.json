@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "React Mastery Guide",
+        "category": "Frontend",
+        "title": "Comprehensive guide to mastering React.js",
+        "Free": 0,
+        "image": "https://img.freepik.com/free-photo/atomic-molecule-life-science-study-experiment-graphic_53876-147646.jpg?uid=R148197509&ga=GA1.1.1986989687.1731091105&semt=ais_hybrid"
+    },
+    {
+        "id": 2,
+        "name": "Node  . javaScript handBook ",
+        "category": "Frontend",
+        "title": "Comprehensive guide to mastering node.js",
+        "Free": 0,
+        "image": "https://img.freepik.com/free-photo/atomic-molecule-life-science-study-experiment-graphic_53876-147646.jpg?uid=R148197509&ga=GA1.1.1986989687.1731091105&semt=ais_hybrid"
+    },
+    {
+        "id": 3,
+        "name": "Python Data Science",
+        "category": "Frontend",
+        "title": "Comprehensive guide Python Data Science Python",
+        "Free": 0,
+        "image": "https://img.freepik.com/free-photo/atomic-molecule-life-science-study-experiment-graphic_53876-147646.jpg?uid=R148197509&ga=GA1.1.1986989687.1731091105&semt=ais_hybrid"
+    },
+    {
+        "id": 4,
+        "name": "Machine Learning for beginner",
+        "category": "Frontend",
+        "title": "Comprehensive Machine Learning for beginner",
+        "Free": 0,
+        "image": "https://img.freepik.com/free-photo/atomic-molecule-life-science-study-experiment-graphic_53876-147646.jpg?uid=R148197509&ga=GA1.1.1986989687.1731091105&semt=ais_hybrid"
+    },
+    {
+        "id": 5,
+        "name": "Full  Stack Developer",
+        "category": "Frontend",
+        "title": "Comprehensive guide to Full Stack Developer",
+        "Free": 0,
+        "image": "https://img.freepik.com/free-photo/atomic-molecule-life-science-study-experiment-graphic_53876-147646.jpg?uid=R148197509&ga=GA1.1.1986989687.1731091105&semt=ais_hybrid"
+    },
+    {
+        "id": 6,
+        "name": "Advanced css Techniques",
+        "category": "Frontend",
+        "title": "Comprehensive guide to mastering React.js",
+        "Free": 0,
+        "image": "https://img.freepik.com/free-photo/atomic-molecule-life-science-study-experiment-graphic_53876-147646.jpg?uid=R148197509&ga=GA1.1.1986989687.1731091105&semt=ais_hybrid"
+    }
+]
